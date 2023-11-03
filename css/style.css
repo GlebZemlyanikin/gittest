@@ -5,6 +5,10 @@ body {
     background-color: #b97a7a;
 }
 p {
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 700;
+    color: red;
+}
+h2 {
+    font-size: 50px;
 }
